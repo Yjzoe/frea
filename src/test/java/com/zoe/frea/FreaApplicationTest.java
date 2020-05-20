@@ -1,10 +1,10 @@
 package com.zoe.frea;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FreaApplicationTests {
+class FreaApplicationTest {
 
     @Test
     void contextLoads() {
