@@ -2,8 +2,8 @@ package com.zoe.frea.config.auth;
 
 import com.zoe.frea.domain.user.User;
 import com.zoe.frea.domain.user.UserRepository;
-import com.zoe.frea.web.dto.OAuthAttributes;
-import com.zoe.frea.web.dto.SessionUser;
+import com.zoe.frea.config.auth.dto.OAuthAttributes;
+import com.zoe.frea.config.auth.dto.SessionUser;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.oauth2.client.userinfo.DefaultOAuth2UserService;

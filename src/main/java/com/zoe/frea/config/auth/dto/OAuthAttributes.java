@@ -1,4 +1,4 @@
-package com.zoe.frea.web.dto;
+package com.zoe.frea.config.auth.dto;
 
 import com.zoe.frea.domain.user.Role;
 import com.zoe.frea.domain.user.User;
